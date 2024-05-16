@@ -1,2 +1,1 @@
-# langchain-project
-A restaurant project using LLM
+<p>This is a project to generate a simple frontend application using streamlit. It provides us with the name of the restaurant based on the name of the cuisine and subsequently name of the food items.<p> 
